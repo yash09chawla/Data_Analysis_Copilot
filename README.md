@@ -7,7 +7,7 @@ sdk: gradio
 sdk_version: 4.36.0
 app_file: app.py
 pinned: false
-python_version: 3.10
+python_version: "3.10"
 ---
 
 # 🤖 Data Analysis Copilot
